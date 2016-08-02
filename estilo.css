@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+#site {}
+#topo {
+	height:150px;
+	background-color:#FC0
+	}
+
+#corpo {
+	height:400px;
+	background-color:#F60
+	}
+	.corpoesquerda {}
+	.corpodireita {}
+
+
+#rodape {
+	height:40px;
+	background-color:#F30
+	}
